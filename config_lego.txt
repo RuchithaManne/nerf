@@ -1,5 +1,5 @@
 expname = lego_test
-basedir = ./logs
+basedir = /content/drive/MyDrive/An_output_Nerf_1806/logs
 datadir = ./data/nerf_synthetic/lego
 dataset_type = blender
 
